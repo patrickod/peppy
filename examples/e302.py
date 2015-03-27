@@ -1,0 +1,2 @@
+s
+class X:a
